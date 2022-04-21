@@ -1,0 +1,1 @@
+### A tool based by [libclang](https://clang.llvm.org/doxygen/group__CINDEX.html) intends to make coding more efficient for myself
